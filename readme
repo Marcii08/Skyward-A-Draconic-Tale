@@ -1,0 +1,36 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 
+         ######################################
+         #                                    #
+	 # Skyward: A Draconic Tale           #
+	 # Developed by Marcielly Nascimento  #
+         #                                    #
+	 ######################################
+
+
+Instructions:
+	
+	To run the game, enter the following command into the command line: cd Skyward_aDraconicTale
+	then run this command: ./Skyward_aDraconicTale.sh
+	If you get a permissions error, run the command: chmod +x Skyward:aDraconicTale.sh
+	
+	Skyward: A Draconic Tale is a game where you get transported to an alternate reality where you are a dragon. There are mutiple different actions you can 
+	take in response to your enviornment, and multiple different places to explore.
+	
+	You can get to one of the serveral different endings by accumulating a certain number of points. Points can be earned by completing a quest and points 
+	can be lost if the quest is done incorrectly. A bad ending can be achieved with enough negative points. There are 4 different traits you can get points 
+	for: Charisma, Confidence, Deception, and Strength. Hidden paths can be unlocked after making certain choices and there is seceret ending with Rain, who
+	you can also choose to fight instead.
+	
+	You can collect gold after successfully completing certain quests. Gold has no purpose other than to build a more impressive Dragon's hoard.
+	To view your points and amount of gold. Visit "Your Cave" when given the option.
+
+	If you do not know the basics of Unix. It is recommened that you begin in the Training Room, which can be found in your cave.
+	Navigate the game by entering the desired word or letter in the terminal when prompted.
+
+
+>> When you are ready to begin your life as a dragon, press any key.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
